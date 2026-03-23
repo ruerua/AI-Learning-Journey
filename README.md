@@ -3,21 +3,23 @@
 
 > 从零开始的AI学习之路
 
-## 📅 学习进度
+## 学习进度
 
-### 第一阶段：Python数据科学基础（进行中）
-- ✅ NumPy数组创建
-- ⏳ NumPy索引切片
-- ⏳ Pandas基础
-- ⏳ Matplotlib可视化
+### 第一阶段：Python数据科学基础
+- [ ] NumPy基础
+- [ ] Pandas基础
+- [ ] Matplotlib可视化
 
-## 📁 仓库结构
+## 仓库结构
+
 AI-Learning-Journey/
 ├── 01-NumPy练习/
-│ ├── 数组创建.ipynb
-│ └── README.md
+│   ├── 数组创建.ipynb
+│   └── README.md
 └── README.md
 
+## 更新记录
+- 2024.3.23：创建仓库，开始NumPy学习
 
 ## 🎯 近期目标
 1. 完成NumPy基础练习
