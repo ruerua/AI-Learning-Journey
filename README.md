@@ -11,13 +11,13 @@
 - [ ] Matplotlib可视化
 
 ## 仓库结构
-
+```
 AI-Learning-Journey/
 ├── 01-NumPy练习/
 │   ├── 数组创建.ipynb
 │   └── README.md
 └── README.md
-
+```
 ## 更新记录
 - 2024.3.23：创建仓库，开始NumPy学习
 
