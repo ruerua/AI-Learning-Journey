@@ -23,7 +23,7 @@ AI-Learning-Journey/
 ```
 ## 更新记录
 - 2024.3.23：创建仓库，开始NumPy学习
-
+- 2024.3.26： 学习了NumPy属性
 ## 🎯 近期目标
 1. 完成NumPy基础练习
 2. 开始Pandas学习
