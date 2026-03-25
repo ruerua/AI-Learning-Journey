@@ -14,7 +14,7 @@
 ```
 AI-Learning-Journey/
 ├── 01-NumPy练习/
-│   ├── 数组创建.ipynb
+│   ├── 00_numpy_attributes.ipynb
 │   └── README.md
 ├── 02-Pandas练习/
 │   ├── 数据读取.ipynb
