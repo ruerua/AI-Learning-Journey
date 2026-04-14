@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2db84170-e2e8-4f3f-ac4c-444068c260e0" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/telecom_churn_prediction/.ipynb_checkpoints/01_AboutNumpy-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/telecom_churn_prediction/01_AboutNumpy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telecom_churn_prediction/.ipynb_checkpoints/01+02_AboutNumpy-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telecom_churn_prediction/.ipynb_checkpoints/03_Basic_Operation-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telecom_churn_prediction/01+02_AboutNumpy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telecom_churn_prediction/03_Basic_Operation.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +61,8 @@
       <workItem from="1774366542233" duration="623000" />
       <workItem from="1774367181089" duration="2257000" />
       <workItem from="1775054919579" duration="2515000" />
-      <workItem from="1776091106788" duration="3097000" />
+      <workItem from="1776091106788" duration="3211000" />
+      <workItem from="1776180042134" duration="1193000" />
     </task>
     <servers />
   </component>
