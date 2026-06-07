@@ -67,6 +67,7 @@
 ---
 
 ## 目录结构
+```
 AI_Learning_Journey/
 ├── README.md # 项目说明
 ├── telecom_churn_prediction/
@@ -78,7 +79,7 @@ AI_Learning_Journey/
 │ └── models/ # 保存的模型文件
 ├── NumpyLearn/ # NumPy 学习笔记
 └── PandasLearn/ # Pandas 学习笔记
-
+```
 
 ## 运行说明
 jupyter notebook
